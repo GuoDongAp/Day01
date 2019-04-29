@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pop" android:title="pop"/>
+    <item android:id="@+id/bord" android:title="广播"/>
+    <item android:id="@+id/phone" android:title="打电话"/>
+</menu>
